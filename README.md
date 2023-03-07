@@ -1,2 +1,5 @@
 # programsko
+
+// prvi readme dokument
+
  
